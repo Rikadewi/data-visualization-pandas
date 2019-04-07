@@ -1,0 +1,1 @@
+jupyter notebook soal3_blackfriday.ipynb
