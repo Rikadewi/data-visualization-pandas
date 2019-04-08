@@ -1,0 +1,1 @@
+jupyter notebook Soal2_Crime_csv.ipynb
